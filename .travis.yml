@@ -24,10 +24,10 @@ os:
 
 env:
   matrix:
-    - CLI_VERSION: 1.0.0-preview2-002710
+    - CLI_VERSION: Latest
       Configuration: Debug
       Framework: netcoreapp1.0
-    - CLI_VERSION: 1.0.0-preview2-002710
+    - CLI_VERSION: Latest
       Configuration: Release
       Framework: netcoreapp1.0
 

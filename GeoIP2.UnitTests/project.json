@@ -11,7 +11,7 @@
   },
 
   "commands": {
-    "test": "MaxMind.Db.Test"
+    "test": "MaxMind.GeoIP1.UnitTests"
   },
 
   "buildOptions": {
